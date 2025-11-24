@@ -1,5 +1,5 @@
 package greet
 
-func Halo() string {
+func Halo(name string) string {
 	return "Halo Dunia"
 }
