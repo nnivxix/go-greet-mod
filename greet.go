@@ -1,4 +1,4 @@
-package gogreetmod
+package greet
 
 func Halo() string {
 	return "Halo"
